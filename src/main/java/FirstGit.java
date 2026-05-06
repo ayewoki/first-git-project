@@ -4,7 +4,7 @@ public class FirstGit {
         System.out.println("[<GIT HUIT LEARNING>]");
         System.out.println("[<GIT HUIT LEARNING>]");
         System.out.println("[<GIT HUIT LEARNING>]");
-        System.out.println("[<GIT HUIT LEARNING>]");
+        System.out.println("[<GIT HUIT LEARNING!>]");
 
 
         int result = 5 + 10;
